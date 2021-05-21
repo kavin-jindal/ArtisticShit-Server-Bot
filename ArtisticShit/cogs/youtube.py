@@ -24,7 +24,7 @@ import emoji
 name="UCXX3bQwpddMsgHMSj-2opJA"
 
 
-key='AIzaSyAGQcG9ssOwRxVnkISJBHVVzLWA9nYBRrA'
+key=''
 
 
 data = urllib.request.urlopen("https://www.googleapis.com/youtube/v3/channels?part=statistics&id="+name+"&key=AIzaSyAGQcG9ssOwRxVnkISJBHVVzLWA9nYBRrA").read()
